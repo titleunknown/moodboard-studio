@@ -99,5 +99,3 @@ Made by [Faini Made](https://fainimade.com)
 Copyright © 2026 Faini Made. All rights reserved.
 
 Unauthorized copying, redistribution, modification, or commercial use of this software, in whole or in part, is strictly prohibited without the express written permission of Faini Made.
-
-For licensing inquiries contact [hello@fainimade.com](mailto:hello@fainimade.com)
