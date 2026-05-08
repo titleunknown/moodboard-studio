@@ -1,5 +1,7 @@
 # Mood Board Studio by [Faini Made](https://fainimade.com)
 
+### 🔗 [moodboard.fainimade.com](https://moodboard.fainimade.com)
+
 A fast, private, browser-based tool for assembling image mood boards and exporting them as print-ready PDFs. No account, no uploads, no cloud. Everything runs locally on your machine.
 
 ---
