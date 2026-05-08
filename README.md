@@ -71,7 +71,8 @@ Everything runs in your browser. Images are never uploaded to any server. There 
 ## Known limitations
 
 - HEIC files require Safari and will not decode correctly in Chrome or Firefox
-- Very large batches (50+ high-resolution images) may be slow to import on lower-end hardware
+- For best performance, keep individual files under 5 MB. Chrome in particular can become slow or unresponsive when loading large batches of high-resolution files simultaneously — exporting from your camera app at medium quality before importing is a good habit
+- Very large batches (50+ images) may be slow to import on lower-end hardware
 - Layout is randomised. There is no manual drag-to-reorder within a page
 
 ---
